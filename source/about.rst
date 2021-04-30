@@ -2,6 +2,21 @@
 关于
 ===================
 
-The GnuCash Documentation Team is a self-designated group of GnuCash users and developers who have volunteered to write this documentation for the benefit of the broader user base. People who are interested in joining this group are encouraged to express their interest on the GnuCash lists (<gnucash-users> and <gnucash-devel>) for further direction. 
+内容权利所有
+~~~~~~~~~~~~~
 
-Contributors on the team so far have been: Yawar Amin, J. Alex Aycinena, Tom Bullock, Carol Champagne, Frank H. Ellenberger, Mike Evans, Chris Good, Dave Herman, Geert Janssens, Jon Lapham, Chris Lyttle, Cristian Marchi, John Ralls, Robert Ratliff, Christian Stimming, David T., and Bengt Thuree. 
+这是GnuCash的简体中文指导文档，由GnuCash的中文使用者(下称 **文档编辑者**)对官方英文文档进行本地化、简化和整理制作而成，文档内容仅供参考。
+
+文档内容所有权由原GnuCash文档制作组及本文档编辑者(见下)拥有。
+
+文档编辑者列表
+~~~~~~~~~~~~~~~
+
+zhengmingpei(邮箱 zhengmingpei@163.com，`B站主页 <https://space.bilibili.com/32918983>`_)
+
+参与进来
+~~~~~~~~~~
+
+该文档尚在完善中，使用 **Sphinx** 制作生成。
+
+文档编辑者B站账号yueyawanbian也建立了GnuCash的使用及交流QQ群，群号为 **526047677**，欢迎加群交流文档制作、软件使用等。
