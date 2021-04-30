@@ -1,0 +1,9 @@
+venv
+temp
+.vscode
+build
+source/_build
+source/_static
+source/_templates
+make.bat
+Makefile
