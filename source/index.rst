@@ -7,7 +7,7 @@
 ===============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: 文档目录
 
    about
