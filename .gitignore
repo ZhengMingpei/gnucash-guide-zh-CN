@@ -1,0 +1,6 @@
+build
+source
+venv
+temp
+.vscode
+make.bat
