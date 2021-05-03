@@ -25,7 +25,7 @@ jobs:
     
     - name: Build document with Sphinx
       run: |
-        export PATH="$PATH:/home/runner/.local/bin:/home/runner/nucash-guide-zh-CN/main"
+        export PATH="$PATH:/home/runner/.local/bin:/home/runner/gnucash-guide-zh-CN/main"
         export SPHINXBUILD="python3 -m sphinx"
         #cd source
         make html
